@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1525633089 source:/Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"types.h"
+	"productFunctions.h"
+	"usersFunctions.h"
+	"salesFunctions.h"
+	"controllerFunctions.h"
+	"listFunctions.h"
+	"inputFunctions.h"
+
+1525633571 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/types.h
+
+1525633547 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/productFunctions.h
+	<stdio.h>
+
+1525633578 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/usersFunctions.h
+	<stdio.h>
+
+1525633566 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/salesFunctions.h
+	<stdio.h>
+
+1525633525 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/controllerFunctions.h
+	<stdio.h>
+
+1525633541 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/listFunctions.h
+	<stdio.h>
+
+1525633531 /Volumes/Almacen/UTN/Programacion I/Clases/practicaModeloParcial_1/modelo_parcial_mercadolibre/inputFunctions.h
+
