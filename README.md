@@ -1,4 +1,4 @@
-# Modelo de parcial del primer cuatrimestre del 2017 de Laboratorio de computación I UTN FRA
+# Modelo del parcial del primer cuatrimestre del 2017 de Laboratorio de computación I UTN FRA
 *********************************************************************************************
 
 Consigna:
